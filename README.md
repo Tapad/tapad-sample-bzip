@@ -13,6 +13,7 @@ The files contains 2 MiB of lorem ipsum. It has been compressed with Tapad's lat
 | bzip2 1.0.8 | ✅ | Ships by default on Ubuntu 20.04 |
 | 7Zip 16.04 | ✅ |  |
 | Java 8 | ✅ | OpenJDK 8, Apache Commons Compress |
+| Java 11 | ✅ | OpenJDK 8, Apache Commons Compress |
 | C# .NET 4.8| ✅ | [SharpZLib](https://github.com/icsharpcode/SharpZipLib) |
 | Python 2.7.17 | ✅ | bz2 library |
 | Python 3.8.1 | ✅ | bz2 library |
