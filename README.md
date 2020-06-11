@@ -3,7 +3,7 @@
 The files contains 2 MiB of lorem ipsum. It has been compressed with Tapad's latest bzip2 compatible compression
 
 
-## Uncompression tests
+## Decompression tests
 
 | Utiliity | Compatible | Note |
 | -------- | :----------: | ---- |
